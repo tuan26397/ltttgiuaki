@@ -1,0 +1,259 @@
+D:\SB_Demo\Demo\Demo\bin\ApplicationInsights.config
+D:\SB_Demo\Demo\Demo\bin\Demo.dll.config
+D:\SB_Demo\Demo\Demo\bin\Demo.dll
+D:\SB_Demo\Demo\Demo\bin\Demo.pdb
+D:\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.Helpers.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.Mvc.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.Optimization.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.Razor.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.dll
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+D:\SB_Demo\Demo\Demo\bin\WebGrease.dll
+D:\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.Helpers.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.Mvc.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.Optimization.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.Razor.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+D:\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+D:\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
+D:\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.xml
+D:\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.xml
+D:\SB_Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\SB_Demo\Demo\Demo\obj\Debug\Demo.dll
+D:\SB_Demo\Demo\Demo\obj\Debug\Demo.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\ApplicationInsights.config
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Demo.dll.config
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Demo.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Demo.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Helpers.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Mvc.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Optimization.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Razor.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\WebGrease.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Helpers.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Mvc.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Optimization.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.Razor.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.xml
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\obj\Debug\Demo.dll
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\obj\Debug\Demo.pdb
+D:\SB_Demo\Demo\Demo\bin\CKFinder.pdb
+C:\Program Files\Microsoft SQL Server\MSSQL12.MSSQLSERVER\MSSQL\DATA\SB_Demo\Demo\Demo\bin\CKFinder.pdb
+D:\Test\SB_Demo\Demo\Demo\bin\ApplicationInsights.config
+D:\Test\SB_Demo\Demo\Demo\bin\Demo.dll.config
+D:\Test\SB_Demo\Demo\Demo\bin\Demo.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Demo.pdb
+D:\Test\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Helpers.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Mvc.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Optimization.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Razor.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.dll
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+D:\Test\SB_Demo\Demo\Demo\bin\WebGrease.dll
+D:\Test\SB_Demo\Demo\Demo\bin\CKFinder.pdb
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Helpers.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Mvc.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Optimization.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.Razor.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+D:\Test\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
+D:\Test\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\Test\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.xml
+D:\Test\SB_Demo\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Test\SB_Demo\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Test\SB_Demo\Demo\Demo\obj\Debug\Demo.dll
+D:\Test\SB_Demo\Demo\Demo\obj\Debug\Demo.pdb
+D:\SB_Demo\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\SB_Demo\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+F:\Git\SB_Demo\Demo\Demo\bin\ApplicationInsights.config
+F:\Git\SB_Demo\Demo\Demo\bin\Demo.dll.config
+F:\Git\SB_Demo\Demo\Demo\bin\Demo.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Demo.pdb
+F:\Git\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+F:\Git\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Helpers.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Mvc.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Optimization.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Razor.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.dll
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+F:\Git\SB_Demo\Demo\Demo\bin\WebGrease.dll
+F:\Git\SB_Demo\Demo\Demo\bin\CKFinder.pdb
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Helpers.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Mvc.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Optimization.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.Razor.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+F:\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
+F:\Git\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+F:\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.xml
+F:\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+F:\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.dll
+F:\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.pdb
+D:\Study\Git\SB_Demo\Demo\Demo\bin\ApplicationInsights.config
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Demo.dll.config
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Demo.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Demo.pdb
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Helpers.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Mvc.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Optimization.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Razor.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\WebGrease.dll
+D:\Study\Git\SB_Demo\Demo\Demo\bin\CKFinder.pdb
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Helpers.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Mvc.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Optimization.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.Razor.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Antlr3.Runtime.pdb
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Newtonsoft.Json.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+D:\Study\Git\SB_Demo\Demo\Demo\bin\Microsoft.AI.Web.xml
+D:\Study\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\Study\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.dll
+D:\Study\Git\SB_Demo\Demo\Demo\obj\Debug\Demo.pdb
+E:\DEV\SB_Demo-master\Demo\Demo\bin\ApplicationInsights.config
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Demo.dll.config
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Demo.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Demo.pdb
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Antlr3.Runtime.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.DependencyCollector.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.Web.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.WindowsServer.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.ApplicationInsights.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Newtonsoft.Json.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Helpers.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Mvc.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Optimization.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Razor.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\WebGrease.dll
+E:\DEV\SB_Demo-master\Demo\Demo\bin\CKFinder.pdb
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Helpers.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Mvc.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Optimization.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.Razor.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Antlr3.Runtime.pdb
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Newtonsoft.Json.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.ApplicationInsights.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.DependencyCollector.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.WindowsServer.xml
+E:\DEV\SB_Demo-master\Demo\Demo\bin\Microsoft.AI.Web.xml
+E:\DEV\SB_Demo-master\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+E:\DEV\SB_Demo-master\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\DEV\SB_Demo-master\Demo\Demo\obj\Debug\Demo.csproj.CopyComplete
+E:\DEV\SB_Demo-master\Demo\Demo\obj\Debug\Demo.dll
+E:\DEV\SB_Demo-master\Demo\Demo\obj\Debug\Demo.pdb

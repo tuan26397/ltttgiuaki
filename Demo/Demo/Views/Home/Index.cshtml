@@ -1,0 +1,89 @@
+﻿
+@using Demo.Models.DTO;
+@using Demo.Models.DAO;
+@{
+    List<IntroducesDTO> introduces = IntroducesDAO.Instance.GetListIntroducts();
+    List<NewsDTO> news = NewsDAO.Instance.GetListNews();
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{int sz = introduces.Capacity, h = 200 + 200 * (sz / 4 + (sz % 4 != 0 ? 1 : 0));
+    string height = h.ToString() + "px";
+    }
+<div id="top-body" style="height:@height;width:1200px;margin-left:-30px;margin-top:150px;">
+    <h2 style="text-align:center;margin-bottom:60px;">ITELYA introduces itself.</h2>
+    <p style="text-align:center;margin-bottom:60px;margin-top:50px;color:dimgray;font-size:20px;width:1200px;">itelya creates a whole new world for travel expenses. With smart.billing – a purely cloud-based software – the company facilitates services according to international standards.</p>
+    @foreach (var item in introduces)
+    {
+        String color = "text-align:center;" + "background-color:" + item.Color + ";float:left;height:250px;width:300px;";
+        <div style=@color>
+            <div style="margin-top:30px;">
+                @*@{String img = "/Images/" + item.Img;}*@
+                <img src=@item.Img alt="" height="100" width="100" />
+            </div>
+            <div style="color:white;">
+                <div style="font-size:40px;font-weight:bold;">
+                    @item.Data
+                    @if (item.Data != (int)(item.Data))
+                    {
+                        char percent = '%';
+                        @Html.DisplayFor(modelItem => percent)}
+                    <br />
+                </div>
+                <div style="font-size:20px;">
+                    @Html.Raw(@item.Describe)
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<br />
+<div style="margin-top:100px;margin-bottom:50px;height:400px;width:1250px;margin-left:-30px;">
+    <h2 style="text-align:center;margin-bottom:50px;margin-top:100px;margin-left:-40px;">NEWS</h2>
+    @{
+        int num = 0;
+        foreach (var item in news)
+        {
+            if (num++ == 4)
+            { break; }
+            <div style="float:left;height:250px;width:268px;margin-right:40px;">
+                <div>
+                    @{
+                    String link = "/news/Details/" + item.Id;
+                    }
+                    <a href=@link><img src=@item.Img alt="" height="150" width="280" /></a>
+                </div>
+                <div style="margin-top:25px;margin-bottom:15px;">
+                    <a href=@link style="font-weight:bold;color:black;font-size:20px;text-decoration:none;">@item.Name</a>
+                    <br />
+                </div>
+                <div style="font-size:16px;color:dimgrey;   ">
+                    @{
+                        string s = item.Describe;
+                        int size = Math.Min(s.Length, 200);
+                        for (int i = 0; i < size; i++)
+                        {
+                            @Html.Raw(s[i]);
+                        }
+                        if (s.Length > 200)
+                        {
+                            string dot = "...";
+                            @Html.DisplayFor(modelItem => dot);
+                        }
+                    }
+
+                </div>
+                <div>
+                    <a href=@link style="color:white;text-decoration:none;"><div style="text-align:center;background-color:#a473c4;width:100px;padding-top:06px;padding-bottom:6px;border-radius:3px;">read more</div></a>
+                </div>
+            </div>
+        }
+    }
+</div>
+<a href="~/news/Index" style="color:white;font-size:20px;text-decoration:none;"><div style="margin-left:450px;margin-top:300px;text-align:center;background-color:#89b51e;width:200px;padding-top:10px;padding-bottom:10px;border-radius:5px;">SEE ALL NEWS</div></a>
+
+
